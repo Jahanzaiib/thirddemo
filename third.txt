@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 its our newly created thir.txt
+=======
+Hi i am creating a new file 
+Hello world is write in third.txt
+>>>>>>> div

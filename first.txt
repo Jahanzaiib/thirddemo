@@ -1,3 +1,7 @@
 Hello World
+<<<<<<< HEAD
 i add a new one
 i am adding new comment 
+=======
+i am jahanzaib
+>>>>>>> div
